@@ -1,4 +1,4 @@
-owner=516473846983950336
+owner=366569932529336320
 prefix=1
 game=Break | -Carcassonne Rewards.
 stayinchannel=true
